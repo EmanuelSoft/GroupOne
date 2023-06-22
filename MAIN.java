@@ -25,4 +25,13 @@ public class MAIN {
         System.out.println(id_no);
 
     }
+     void Asaye_Chala() {
+        String name = "Asaye Chala ";
+        int id_no = 1579;
+        System.out.println(name);
+        System.out.println(id_no);
+
+    }
+
+     
 }
