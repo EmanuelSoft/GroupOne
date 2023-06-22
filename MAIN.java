@@ -26,6 +26,7 @@ public class MAIN {
 
     }
      void Asaye_Chala() {
+     
         String name = "Asaye Chala ";
         int id_no = 1579;
         System.out.println(name);
